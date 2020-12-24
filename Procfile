@@ -1,1 +1,1 @@
-web: python3 telbot.py
+web: python telbot.py
