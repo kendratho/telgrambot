@@ -4,7 +4,7 @@ import os
 from bs4 import BeautifulSoup as soup
 from urllib.request import urlopen as uReq
 import string
-TOKEN =os.environ.get("TELE_TOKEN")
+TOKEN =os.environ.get("1159646796:AAErwIzgMCiZ54615tgwHjGp7FzN4tD6qks")
 
 def soupify(url):
     my_url=url
